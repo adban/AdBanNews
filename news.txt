@@ -1,1 +1,312 @@
 
+[Adblock Plus 2.0]
+! Version: 20190108
+! Title: Mustafa Celebi - news
+! Last modified: 08 Jan 2019 13:10 UTC
+! Expires: 1 days (update frequency)
+! Homepage: http://mcelebi.net/
+!
+
+bigpara.hurriyet.com.tr##.insider-opt-in-notification-inner-container
+bigpara.hurriyet.com.tr##.insider-opt-in-notification
+bigpara.hurriyet.com.tr###google_ads_iframe_\/68858259\/bigpara\/anasayfa\/pageskin_sag_120x600_0
+bigpara.hurriyet.com.tr###google_ads_iframe_\/68858259\/bigpara\/anasayfa\/header_728x90_0
+bigpara.hurriyet.com.tr###google_ads_iframe_\/68858259\/bigpara\/anasayfa\/countdown_sidebar_300x250_1_0
+bigpara.hurriyet.com.tr###google_ads_iframe_\/68858259\/bigpara\/anasayfa\/sidebar_300x250_1_0
+bigpara.hurriyet.com.tr###google_ads_iframe_\/68858259\/bigpara\/anasayfa\/countdown_sidebar_300x250_1_0__container__
+bigpara.hurriyet.com.tr##div[style="padding-bottom:10px;"]
+bigpara.hurriyet.com.tr###google_ads_iframe_\/68858259\/bigpara\/anasayfa\/pageskin_sag_120x600_0__container__
+bigpara.hurriyet.com.tr###google_ads_iframe_\/68858259\/bigpara\/anasayfa\/pageskin_120x600_0__container__
+bigpara.hurriyet.com.tr###google_ads_iframe_
+bigpara.hurriyet.com.tr###google_ads_iframe_\/68858259\/bigpara\/anasayfa\/sidebar_300x250_2_0
+bigpara.hurriyet.com.tr##.mainFooter
+bigpara.hurriyet.com.tr###google_ads_iframe_\/68858259\/bigpara\/anasayfa\/footer_728x90_0
+bigpara.hurriyet.com.tr##div[style="width:100%;height:auto;background-color:#fff;min-height: 42px;border:1px solid #f3f3f3;display:inline-block;position:relative;margin: auto;box-sizing: border-box;"]
+bigpara.hurriyet.com.tr##.newsFeedBox
+bigpara.hurriyet.com.tr###twitter-widget-0
+bigpara.hurriyet.com.tr##.twitter-timeline.twitter-timeline-rendered
+bigpara.hurriyet.com.tr###google_ads_iframe_\/68858259\/bigpara\/diger\/sidebar_300x250_3_0
+bigpara.hurriyet.com.tr##.mBot30.videoCast
+bigpara.hurriyet.com.tr###google_ads_iframe_\/68858259\/bigpara\/anasayfa\/sidebar_300x250_3_0__container__
+bigpara.hurriyet.com.tr###google_ads_iframe_\/68858259\/bigpara\/anasayfa\/header_728x90_0__container__
+bigpara.hurriyet.com.tr###marquee
+bigpara.hurriyet.com.tr##.FixedLineBottom
+bigpara.hurriyet.com.tr###google_ads_iframe_\/68858259\/bigpara\/anasayfa\/body_650x80_0
+||tpc.googlesyndication.com/pagead/imgad?id=CICAgKC7hZiMKBABGAEyCIaT__XCyBo2
+||tpc.googlesyndication.com/pagead/imgad?id=CICAgKC7mbuO0QEQARgBMgim4iY0W_VDuQ
+||tpc.googlesyndication.com/safeframe/1-0-32/html/container.html
+||tpc.googlesyndication.com/
+diken.com.tr###dkn-625708334
+diken.com.tr##.dkn-genesis-tepe-desktop
+diken.com.tr###dkn-1051715052
+diken.com.tr##.dkn-masthead-970x250
+diken.com.tr###simple-social-icons-2
+diken.com.tr##.widget.simple-social-icons
+diken.com.tr###dkn-1729475408
+diken.com.tr##.site-footer
+diken.com.tr##.footer-widgets
+diken.com.tr###advads_ad_widget-2
+diken.com.tr##.widget.dkn-widget
+diken.com.tr###dkn-1449809826
+diken.com.tr##.dkn-beforepost
+diken.com.tr##.addtoany_share_save_container.addtoany_content.addtoany_content_top
+diken.com.tr###dkn-1436770993
+diken.com.tr##.dkn-orta
+diken.com.tr###dkn-1780715268
+diken.com.tr##.dkn-orta2
+diken.com.tr###dkn-948465531
+diken.com.tr##.dkn-afterpost
+diken.com.tr##.addtoany_share_save_container.addtoany_content.addtoany_content_bottom
+diken.com.tr##span[style="vertical-align: bottom; width: 133px; height: 20px;"]
+diken.com.tr##.wp-post-navigation-next
+diken.com.tr##.wp-post-navigation-pre
+diken.com.tr##div[style="width:100%; text-align:left"]
+diken.com.tr##.entry-categories
+ensonhaber.com###google_ads_iframe_\/9170022\/masthead_anasayfa_ensonhaber_0
+ensonhaber.com##ins[style="width: 970px; height: 250px; display: block; position: relative; border: 0px;"]
+ensonhaber.com##ins[style="width: 970px; height: 250px; display: inline-table; position: relative; border: 0px; vertical-align: bottom;"]
+ensonhaber.com##.psRight
+ensonhaber.com###google_ads_iframe_\/9170022\/sol1_anasayfa_ensonhaber_0
+ensonhaber.com##ins[style="width: 160px; height: 600px; display: block; position: relative; border: 0px;"]
+ensonhaber.com###google_ads_iframe_\/9170022\/sag2_anasayfa_ensonhaber_0
+ensonhaber.com##ins[style="width: 300px; height: 250px; display: block; position: relative; border: 0px;"]
+ensonhaber.com##ins[style="width: 300px; height: 250px; display: inline-table; position: relative; border: 0px; vertical-align: bottom;"]
+ensonhaber.com##.footer.poz
+ensonhaber.com##.twitterPageButton
+kralspor.ensonhaber.com###google_ads_iframe_\/9170022\/tepe_spor_ensonhaber_0
+kralspor.ensonhaber.com##ins[style="width: 970px; height: 90px; display: block; position: relative; border: 0px;"]
+kralspor.ensonhaber.com##.site-top
+kralspor.ensonhaber.com##ins[style="width: 970px; height: 90px; display: inline-table; position: relative; border: 0px; vertical-align: bottom;"]
+kralspor.ensonhaber.com###google_ads_iframe_\/9170022\/sag3_spor_ensonhaber_0
+kralspor.ensonhaber.com##ins[style="width: 300px; height: 600px; display: block; position: relative; border: 0px;"]
+kralspor.ensonhaber.com##ins[style="width: 300px; height: 600px; display: inline-table; position: relative; border: 0px; vertical-align: bottom;"]
+kralspor.ensonhaber.com###div-gpt-ad-1410783752262-2
+kralspor.ensonhaber.com##.games
+kralspor.ensonhaber.com###google_ads_iframe_\/9170022\/custom_detay_ensonhaber_0
+kralspor.ensonhaber.com##ins[style="width: 600px; height: 280px; display: block; position: relative; border: 0px;"]
+kralspor.ensonhaber.com##ins[style="width: 600px; height: 280px; display: inline-table; position: relative; border: 0px; vertical-align: bottom;"]
+kralspor.ensonhaber.com##.socialButton
+kralspor.ensonhaber.com##.footer
+kralspor.ensonhaber.com###masterComment
+kralspor.ensonhaber.com##.\31 58521
+ensonhaber.com##div[style="margin-right:15px;margin-top:15px;"]
+ensonhaber.com###google_ads_iframe_\/9170022\/custom_detay_ensonhaber_0
+ensonhaber.com##ins[style="width: 600px; height: 280px; display: block; position: relative; border: 0px;"]
+ensonhaber.com##ins[style="width: 600px; height: 280px; display: inline-table; position: relative; border: 0px; vertical-align: bottom;"]
+ensonhaber.com##.socialButton
+ensonhaber.com##.dstxt
+ensonhaber.com##.games
+ensonhaber.com###eng_w_srail_83891
+ensonhaber.com##.eng_w_srail
+ensonhaber.com##.list.commentMaster.commentMaster584949
+ensonhaber.com###eng_asw_72791837397266110
+ensonhaber.com##.eng_asw
+ensonhaber.com###masterComment
+ensonhaber.com##.\35 84949
+ensonhaber.com###eng_top_ww_widget_72791837397266110
+ensonhaber.com##.eng_top_ww_widget
+ensonhaber.com##.sub-ttl
+ensonhaber.com###div-gpt-ad-1416300188726-1
+ensonhaber.com##.list.commentMaster.commentMaster584859
+||facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fensonhaber&width=300&colorscheme=light&connections=10&stream=false&header=false&height=255
+||ensonhaber.com/esh/class/haber/ad.php?d=https%3A%2F%2Fwww.ensonhaber.com%2Fcanakkale-valiligi-46-adet-artci-deprem-meydana-geldi.html&s=584944&type=970x250&id=infMh584944
+ensonhaber.com/esh/class/haber/ad.php
+||ensonhaber.com/esh/class/haber/ad.php?d=https%3A%2F%2Fwww.ensonhaber.com%2Fataturkun-konustugu-ettigi-tarihi-konaga-enstitu-karari.html&s=584857&type=970x250&id=infMh584857
+trthaber.com##.footer
+trthaber.com###twitter-widget-0
+trthaber.com##.twitter-timeline.twitter-timeline-rendered
+trthaber.com##.new-footer-container
+trthaber.com##.detTarihler
+trthaber.com##.news-detail-sidebar-container
+trthaber.com##.news-detail-sidebar-gal
+trthaber.com##.news-detail-sidebar-vid
+trthaber.com##.etiketler
+trthaber.com##.item
+haber7.com##.pageskin-item.left
+haber7.com##.pageskin-item.right
+haber7.com##.w620-ad
+haber7.com###slick-slide62
+haber7.com###google_ads_iframe_\/324749355\/Haber7_Masthead_2_0
+haber7.com##.masthead.js-middle-masthead.reklam
+haber7.com###google_ads_iframe_\/324749355\/Haber7_300x250_2_0
+haber7.com##.multimedia-ad
+haber7.com##.site-footer
+haber7.com###google_ads_iframe_\/324749355\/Haber7_300x250_3_0
+haber7.com##.economy-ad
+haber7.com##.newspaper-slider.slick-initialized.slick-slider.slick-dotted
+ntv.com.tr##.site-info-bg
+ntv.com.tr##.site-info
+ntv.com.tr##.push
+ntv.com.tr##.cookie-popup
+ntv.com.tr##.textWidget.text-widget.large.tall.single-widget.griditem
+ntv.com.tr##.large.default.tile.at.homepage.odd.grid.screen
+ntv.com.tr##.large.single.carousel.at.homepage.even.grid.screen
+ntv.com.tr##.large.default.carousel.at.homepage.even.grid.screen
+ntv.com.tr##.large.shiny.carousel.at.homepage.even.grid.screen
+ntv.com.tr##.dyg-soller.small.short.single-widget.griditem
+ntv.com.tr##.dygad-pageskin-left.dygad-pageskin-wing
+ntv.com.tr##.dygad-pageskin-right.dygad-pageskin-wing
+ntv.com.tr###google_ads_iframe_\/37011203\/ntv_desktop\/anasayfa\/genel\/LDB_0__container__
+ntv.com.tr##.dygad-tag-container-controls.active
+ntv.com.tr###google_ads_iframe_\/37011203\/ntv_desktop\/anasayfa\/genel\/LDB2_0
+ntv.com.tr##.large.default.carousel.at.homepage.odd.grid-wrapper.screen
+haberturk.com###google_ads_iframe_\/31903365\/Haberturk\/\/Anasayfa\/\/160x600\/\/Sol_0
+haberturk.com###google_ads_iframe_\/31903365\/Haberturk\/\/Anasayfa\/\/160x600\/\/Sag_0
+haberturk.com##.search-content.yaani.show
+haberturk.com##.copyright
+haberturk.com##.category-list
+haberturk.com##.social-list
+haberturk.com##.brand
+haberturk.com##.newsletter
+haberturk.com###zone_2016
+haberturk.com##.ads-zone
+haberturk.com##.ad-ver-ti-se-ment.adv300250
+haberturk.com##.ad-ver-ti-se-ment.adv300600
+haberturk.com##.widget-crossword.widget.heightTypeAuto
+haberturk.com##.popBackBlack
+haberturk.com##.anket-wrapper
+haberturk.com##.social-media-middle
+haberturk.com##.width960.pad0
+haberturk.com##.news-video-wrapper.rate-16x9-wrapper.sticker
+haberturk.com##.social-media-headline
+haberturk.com##.news-detail-featured-social-icons
+haberturk.com##.bx-slide-effects
+haberturk.com###HTPLAY_603475_2380561_html5_api
+haberturk.com##.vjs-tech
+haberturk.com##video[src="blob:https://www.haberturk.com/b847ebcf-c8b8-499f-a498-9b1402a5f9d4"]
+haberturk.com###HTPLAY_603475_2380561
+haberturk.com##.htplay_video.embed.video-js.vjs-16-9.vjs-big-play-centered.dimensions-603475_2380561.vjs-controls-enabled.vjs-workinghover.vjs-v7.vjs-has-started.vjs-playing.vjs-user-active
+haberturk.com##.htplay_video
+haberturk.com##.news-video-wrapper.rate-16x9-wrapper
+haberturk.com##.ht-cta-button
+haberturk.com##div[style="padding: 20px; text-align: center;"]
+haberturk.com##.keywords-content
+haberturk.com##.bx-viewport
+haberturk.com##.bx-wrapper
+haberturk.com###htAuthorVertical
+haberturk.com##.htAuthorVertical
+haberturk.com##.row-fluid
+haberturk.com##.ht-news-type-2.author-widget
+haberturk.com##.seoHighlightsBody
+haberturk.com##.seoHighlightsHead
+cnnturk.com###medyanet\/9927946\/cnnturk\/anasayfa\/980x250_Masthead
+cnnturk.com##.pageskin-left.hidden-sm.hidden-xs.medyanet-gravity-opacity.affix-top
+cnnturk.com###medyanet\/9927946\/cnnturk\/anasayfa\/300x250
+cnnturk.com###medyanet\/9927946\/cnnturk\/anasayfa\/300x250_2
+cnnturk.com###medyanet\/9927946\/cnnturk\/anasayfa\/300x250_3
+cnnturk.com##.bottom
+cnnturk.com##.cookie-sticky.ng-scope
+cnnturk.com##.navbar.navbar-inverse.hidden-xs.hidden-sm
+cnnturk.com##.foot
+cnnturk.com##.row.hidden-xs.hidden-sm
+cnnturk.com##.p-l-md.p-r-md.m-t-lg.m-b-lg.icons-circle-social.text-center.hidden-xs
+cnnturk.com###medyanet\/9927946\/cnnturk\/turkiye\/980x250_Masthead
+cnnturk.com##.section-header.with-menu.turkiye.m-b-lg.z-20
+cnnturk.com###medyanet\/9927946\/cnnturk\/turkiye\/300x250
+cnnturk.com##.banner-section.m-b.hidden-xs.active
+cnnturk.com##.vjs-modal-dialog-content
+cnnturk.com##.vjs-error-display.vjs-modal-dialog
+cnnturk.com###player_1550739009995
+cnnturk.com##.video-js.vjs-default-skin.vjs-big-play-centered.vjs-workinghover.vjs-v5.vjs-controls-disabled.vjs-has-started.vjs-playing.vjs-waiting.vjs-user-active
+cnnturk.com###playerContainer_DailyPlayer
+cnnturk.com##.embed-responsive.embed-responsive-16by9.player-container
+cnnturk.com###rbox-t2m
+cnnturk.com##.trc_rbox_div.trc_rbox_border_elm
+cnnturk.com##.partner-links.editor
+cnnturk.com##.tags-list.swiper-wrapper
+cnnturk.com##.tags
+cnnturk.com###medyanet\/9927946\/cnnturk\/turkiye\/adnative_450x25-2
+cnnturk.com##.col-md-4.hidden-sm.hidden-xs.sticky-item.ng-isolate-scope.fixed.top
+cnnturk.com###adm-4e4144ab-b1a7-4e15-9f09-7771847926a6-div-iframe
+cnnturk.com###medyanet\/9927946\/cnnturk\/spor\/980x250_Masthead
+cnnturk.com##.section-header.with-menu.spor.default-open.z-20
+cnnturk.com###adm-e15b5b4c-d589-4e71-99af-a0b07ab3657c-div-iframe
+cnnturk.com##.adm-scroll-iframe
+cnnturk.com##iframe[src="about:blank"]
+cnnturk.com##.adm-scroll-info
+cnnturk.com##.adm-scroll-body
+cnnturk.com##.partner-links-gallery
+cnnturk.com##.banner-section
+cnnturk.com##.detail-tools.flex-start.hidden-xs.z-10
+cnnturk.com##.masthead.medyanet-gravity-opacity.hidden-sm.hidden-xs
+cnnturk.com##.section-header.with-menu.magazin.default-open.z-20
+cnnturk.com##.share.ng-isolate-scope
+haberler.com###adm-8aa46944-e423-4eaa-ad79-9218b4104ce8-div-iframe
+haberler.com##iframe[src="about:blank"]
+haberler.com###google_ads_iframe_\/1007216\/Haberler_Haber_Detay_160x600_Sol_0__container__
+haberler.com##div[style="width: 300px; height: 600px; position:relative; left: -310px; top: 190px; overflow:hidden; text-align: right;"]
+haberler.com##div[style="position: fixed; top: 170px; left: 136.5px; display: block; width: 160px; height: 600px; z-index: 10000;"]
+haberler.com###\33 00x600_reklam
+haberler.com##.socialMediaScope
+haberler.com##.yrmdv
+haberler.com###cookiePolicyw
+dailymotion.com###dmp_Video
+dailymotion.com##video[src="blob:https://www.dailymotion.com/9799c41d-b824-4014-a25f-483908ea8929"]
+haberler.com##.dailymotion-cpe.cpe-0vw9r
+haberler.com###videoplayer
+haberler.com###dailymotion_widget
+haberler.com###eng_asw_28771612618538156
+haberler.com##.eng_asw
+haberler.com###ENGAGEYA_WIDGET_72154
+haberler.com###google_ads_iframe_\/1007216\/Haberler_desktop_detay_footer_980x250_0
+haberler.com###f-links
+haberler.com###f-redline
+haberler.com###f-copyright
+fotogaleri.haberler.com###ziyaretci_emoji
+fotogaleri.haberler.com##.fg-share
+haberler.com##.adm-scroll-info
+haberler.com###google_ads_iframe_\/1007216\/Haberler_Desktop_Quiz_Masthead_MELON_0
+haberler.com###quiz_masthead
+haberler.com##.related-news-wrapper
+haberler.com###google_uploaded_a4a
+haberler.com###ns-0u80w-e-3 m-panel
+haberler.com###masthead
+||i.haber7.net/sondakika/tv_schedules/kanal7_main.html
+||tpc.googlesyndication.com/pagead/imgad?id=CICAgKC7qd_VchABGAEyCNcp8FaFdR8P
+||tpc.googlesyndication.com/pagead/imgad?id=CICAgKC7qZ_5VBABGAEyCP3l6rSY4kT5
+||tpc.googlesyndication.com/safeframe/1-0-32/html/container.html
+||cdn1.ntv.com.tr/gorsel/egitim/sucumuz-neydi-21-subat-2019,5zt96PMbM0qJe_hGI_WWKw.jpg?v=20190131083210770&width=300&height=250&mode=crop&scale=both&meta=square&quality=90
+||imasdk.googleapis.com/js/core/bridge3.280.1_tr.html#goog_831939931
+||imasdk.googleapis.com/js/core/bridge3.280.1_tr.html#goog_831939933
+||imasdk.googleapis.com/js/core/bridge3.280.1_tr.html#goog_1106824874
+||medyanet.doracdn.com/proje/2019/01/garanti-panel/a03/mastheadu.html?cachebuster=193873612498&idSuffix=568915981576&id=Medyanet_Ad_Models_Richmedia_Banner1_568915981576&clickTAG=https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjstz_0p4tSqKmGDt9sNLLqp7kLDoADvB7-QbfvqdKfPu2-OImyOMTHrkBWRHb8bYzPwp7mdBKp5Pi4oczQfsGL9unP8kNaV1hh5q8xjws_GhctqDxIwDTS1e7wCG3tZP49olZlD_IcbhOHgDehL5a8L5ZVJR8zHAVFVdpslTawAclsaoscpoIUEUpaP2MjJF9mrBRqU8U0AmVGSvi6DDYj-r45VfPJ1zQk8YRXPdJT7wgcCpO1scncQixFkCcdY092UrjRw5XObOiXssXR5Z7w%2526sai%253DAMfl-YTlDIC6xxPYegEQ0JhaQFgMAGOn4-c24Ab3-Z39kRKkXHSbGVOB08XaH2rbk1al_vK4BGofx8Bz273s9VIELhveI_yNE2y9z22wI6LAkRVI4viXULsu0StfdYX_%2526sig%253DCg0ArKJSzC7omecKYD-hEAE%2526urlfix%253D1%2526adurl%253Dhttps%3A%2F%2Fad.doubleclick.net%2Fddm%2Ftrackclk%2FN986228.271879CNNTURK.COM.TR%2FB22230183.238836962%3Bdc_trk_aid%3D436253524%3Bdc_trk_cid%3D111587070%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D
+||imasdk.googleapis.com/js/core/bridge3.280.1_tr.html#goog_835624106
+||mediaulak.dogannet.tv//S11/HLS_VOD/239110_b07e/index.m3u8?key=7f8b085e55ef193a91a731b78c741880&app=com.cnnturk
+lkbank/halkbank.gif
+||dailymotion.com/embed?GK_PV5_NEON=1&GK_PV5_QUEUE=1&api=postMessage&autoplay=false&id=f20c454c49e2588&mute=true&origin=https%3A%2F%2Fwww.haberler.com&pubtool=cpe&queue-autoplay-next=false&queue-enable=false&ui-highlight=false
+||dailymotion.com/embed?GK_PV5_NEON=1&GK_PV5_QUEUE=1&api=postMessage&autoplay=false&id=fc3ab477e538d4&mute=true&origin=https%3A%2F%2Fwww.haberler.com&pubtool=cpe&queue-autoplay-next=false&queue-enable=false&ui-highlight=false
+||dailymotion.com/embed?GK_PV5_NEON=1&GK_PV5_QUEUE=1&api=postMessage&autoplay=false&id=f3976291e95d654&mute=true&origin=https%3A%2F%2Fwww.haberler.com&pubtool=cpe&queue-autoplay-next=false&queue-enable=false&ui-highlight=false
+||dailymotion.com/embed?GK_PV5_NEON=1&GK_PV5_QUEUE=1&api=postMessage&autoplay=false&id=f342a17f69929c8&mute=true&origin=https%3A%2F%2Fwww.haberler.com&pubtool=cpe&queue-autoplay-next=false&queue-enable=false&ui-highlight=false
+||dailymotion.com/embed
+dailymotion.com/embed
+ads.yenimedya.com.tr/
+||ads.yenimedya.com.tr/Partner/dynamicwidget?userId=1038
+onedio.com##.loreal-magic-shampoo-wrap
+onedio.com###google_ads_iframe_\/21814681\/Anasayfa_Mansetalti_Bant_0
+onedio.com##.o-emoji-wrapper
+onedio.com###google_ads_iframe_\/21814681\/masthead_0
+onedio.com##.listing
+onedio.com##.large.panel
+onedio.com###div-gpt-ad-1495537809486-0
+onedio.com##.articleMiddleTopAds
+onedio.com###div-gpt-ad-1495538230810-0
+onedio.com##.show-reactions
+onedio.com##.user-reactions
+onedio.com##.extraurls
+onedio.com###rbox-t2v
+onedio.com##.trc_rbox_div.trc_rbox_border_elm
+onedio.com###taboola-below-article-thumbnails
+onedio.com##.trc_related_container.trc_spotlight_widget.render-late-effect.tbl-feed-container.tbl-feed-full-width
+onedio.com###legacyrec
+onedio.com##.related
+onedio.com##.o-ftr
+onedio.com##.reftags
+onedio.com###google_ads_iframe_\/21814681\/masthead_0__container__
+onedio.com##.hover-menu
+onedio.com##.social-controls.floating
+onedio.com##.scrollhelper
+onedio.com##.tua-container.start
+onedio.com###proje-masthead
+onedio.com##.proje-masthead
+||srv-cdn.onedio.com/store/9c52fd2c2ab6ecb2b58713516e0284eec6c07796e0ea496dfbe3d38cdba2ad39.png
+||tpc.googlesyndication.com/safeframe/1-0-32/html/container.html
